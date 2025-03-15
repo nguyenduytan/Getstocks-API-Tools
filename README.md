@@ -42,7 +42,7 @@ A Windows Forms application to fetch and download stock content from [Getstocks.
    - For multiple links, files are downloaded automatically to the `getstocks` folder.
 
 ## Screenshots
-*(Optional: Add screenshots here by uploading images to the repo and linking them, e.g., `![Main Interface](screenshots/main.png)`)*
+[Main Interface](screenshots/main.png)
 
 ## Building from Source
 1. **Clone the Repository**:
