@@ -14,7 +14,7 @@ A Windows Forms application to fetch and download stock content from [Getstocks.
 
 ## Installation
 1. **Download the Release**:
-   - Go to the [Releases](/releases) page.
+   - Go to the [Releases](https://github.com/nguyenduytan/Getstocks-API-Tools/release) page.
 
 2. **Extract the ZIP**:
    - Unzip the downloaded file to a folder of your choice (e.g., `C:\GetStocksWinForms`).
@@ -42,7 +42,7 @@ A Windows Forms application to fetch and download stock content from [Getstocks.
    - For multiple links, files are downloaded automatically to the `getstocks` folder.
 
 ## Screenshots
-[Main Interface](screenshots/main.png)
+![Getstocks.net](https://github.com/nguyenduytan/Getstocks-API-Tools/blob/main/screenshots/main.png "Getstocks.net API")
 
 ## Building from Source
 1. **Clone the Repository**:
