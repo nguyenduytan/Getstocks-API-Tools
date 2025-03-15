@@ -14,7 +14,7 @@ A Windows Forms application to fetch and download stock content from [Getstocks.
 
 ## Installation
 1. **Download the Release**:
-   - Go to the [Releases](https://github.com/[YourUsername]/GetStocksWinForms/releases) page.
+   - Go to the [Releases](/nguyenduytan/Getstocks-API-Tools/releases) page.
    - Download the latest `GetStocksWinForms_v1.0.zip` file.
 
 2. **Extract the ZIP**:
